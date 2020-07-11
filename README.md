@@ -1,4 +1,4 @@
-# digvast
+# flutter practice
 
 A new Flutter application.
 
